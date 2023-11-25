@@ -119,6 +119,22 @@ a{
     width: 70%;
 }
 
+.other-photo {
+    max-width: 100%; /* Adjust this value based on your design */
+    height: auto; /* This ensures the image height adjusts accordingly */
+    /* Add any additional styles you want for other photos */
+
+}
+
+.other-photocenter {
+    max-width: 100%; /* Adjust this value based on your design */
+    height: auto; /* This ensures the image height adjusts accordingly */
+    /* Add any additional styles you want for other photos */
+	display: block;
+    margin: auto;
+}
+
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
