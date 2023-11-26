@@ -85,14 +85,14 @@ a{
     padding-left: 10px;
 }
 
-.section-2 .button:hover {
+.section-1 .button:hover {
     background: #fff;
     cursor: pointer;
     transition: 0.3s;
     color: #000;
 }
 
-.section-2 .button {
+.section-1 .button {
     background: #7A7C80;
     font: 18px/30px 'opensans-bold', sans-serif;
     text-decoration: none;
